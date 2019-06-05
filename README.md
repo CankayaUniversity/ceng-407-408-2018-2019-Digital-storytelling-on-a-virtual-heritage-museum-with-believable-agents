@@ -3,18 +3,18 @@ Digital storytelling on a virtual heritage museum with believable agents based o
 
 COMPILATION & INSTALLATION GUIDE
 
-Introduction
+##Introduction
 
 This document is the installation and compilation document for the project titled as “Digital Storytelling on a Virtual Heritage Museum with Believable Agents”.  This project aims to assist people that are curious about the Turkish horror culture by helping them learning our culture with the advantages of virtual reality.
 Digital Storytelling on a Virtual Heritage Museum with Believable Agents project is developed using Unity 3D Game Engine and Oculus Integration tool for virtual reality support. Language that is used for coding is C#. This project is developed to run on Windows computer devices.
 
-Purpose
+#Purpose
 	
 Purpose of this document is to explain how to install and compile the project called Digital Storytelling on a Virtual Heritage Museum with Believable Agents. Required tools and conditions are explained in detail.
 
-Compilation
+##Compilation
 
-Prerequisites / Tools
+#Prerequisites / Tools
 
 There are some prerequisites to install and run the project on a computer. Project is developed on platform Unity.
 •	Unity 2018.3.0f2 should be installed on the computer to run and compile the project.
